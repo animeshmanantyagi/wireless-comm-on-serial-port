@@ -34,6 +34,4 @@ class name in the manifest Main-Class element.
 
 =============================
 ANIMESH TYAGI
-B.TECH (IT) IV YEAR 
-1471913002
 =============================
