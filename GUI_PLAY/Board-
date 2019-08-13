@@ -1,0 +1,13 @@
+Board-
+Processor -Microprocessor - PIC-16F877A 
+WIFI Module - ESP-01 <PROGRAMMABLE IC<32 BIT MICROCRONTROLLER
+16x02 LCD 
+PUSH BUTTON SWITCH 
+LED LP LR LQ LS M-16CHARACTER
+OPTIONAL - MAX-232 (Serial Communication)
+Silver bar - 4Mhz Crystal - Oscillator
+Below WB - 3.3volt VOltage regulator LM1117
+GRB- GROUND RX TX
+
+
+BAUD RATE<SET COMPORT<CONVERT TO TTL<
